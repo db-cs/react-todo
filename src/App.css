@@ -1,0 +1,15 @@
+.App {
+    padding-top: 3em;
+    text-align: center;
+}
+
+.App h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.App p {
+    font-size: 1.25em;
+    margin-top: 0.75em;
+}
